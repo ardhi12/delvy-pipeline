@@ -1,0 +1,8 @@
+# directories
+__pycache__/
+logs/
+plugins/
+config/
+
+# files
+.DS_Store
