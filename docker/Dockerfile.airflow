@@ -4,7 +4,7 @@ FROM apache/airflow:2.7.2
 RUN pip install -U pip --upgrade pip
 
 # Working directory
-WORKDIR /app
+WORKDIR /opt/airflow
 
 # Copy requirements.txt file to workdir
 COPY requirements.txt .
