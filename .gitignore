@@ -6,3 +6,4 @@ config/
 
 # files
 .DS_Store
+*.ipynb
